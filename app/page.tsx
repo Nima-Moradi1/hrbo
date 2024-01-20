@@ -2,7 +2,8 @@
 export default function Home() {
   return (
    <div>
-    nth to see here
+    something to write here
+    
    </div>
   )
 }
